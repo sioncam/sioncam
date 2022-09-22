@@ -10,6 +10,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=black&style=for-the-badge" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=Vite.js&logoColor=black&style=for-the-badge" />
   <img alt="ElectronJS" src="https://img.shields.io/badge/Electron-47848F?logo=Electron&logoColor=white&style=for-the-badge" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
