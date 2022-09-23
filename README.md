@@ -1,4 +1,4 @@
-![github banner sion](https://user-images.githubusercontent.com/113143648/191878636-5b5efc44-2303-457c-8d3a-2aacb4a39c79.png)
+![github banner sion](https://user-images.githubusercontent.com/113143648/191879156-e0459fb6-e75d-440f-a54b-06b8b09d809b.png)
 
 ### SION Inc.
 
