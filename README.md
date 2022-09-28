@@ -21,7 +21,6 @@
   
  </p>
  
- 
 ### Connect with me!
 
 <p>
