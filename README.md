@@ -3,7 +3,7 @@
 ### SION Inc.
 
 <p>
-  My name is Cameron Christensen, I am from the Pacific Northwest, and am working as a Frontend Developer for SION Inc.
+  Hailing from the Pacific Northwest, I am a full-stack software engineer working as a Frontend Developer for SION Inc.
 </p>
 
 ### Tech Stack
