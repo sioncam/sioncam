@@ -40,5 +40,5 @@
 
 ### README Stat Card
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sion&repo=control-panel)](https://github.com/SION-central/control-panel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sion-central&repo=control-panel)](https://github.com/SION-central/control-panel)
 
