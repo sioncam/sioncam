@@ -32,8 +32,8 @@
 
 ### Github stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cambam509&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sioncam&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Languages
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cambam509&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sioncam&theme=tokyonight)
