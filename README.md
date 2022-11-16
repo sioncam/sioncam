@@ -38,7 +38,3 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cambam509&theme=gotham&count_private=true)
 
-### README Stat Card
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sioncam&repo=control-panel)](https://github.com/SION-Central/control-panel)
-
