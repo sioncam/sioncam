@@ -17,6 +17,7 @@
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="GitKracken" src="https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge" />
   
   
  </p>
