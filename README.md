@@ -32,7 +32,7 @@
 
 ### Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sioncam&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sioncam&show_icons=true&theme=transparent&count_private=true)
 
 ### Languages
 
